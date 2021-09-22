@@ -5,15 +5,15 @@ Comparison of document forms before and after Organization
 # Source Files
 - Source Files
   - File1  
-    -Image1  
-    -Image2  
-    -……  
-    -ImageN  
+    - Image1  
+    - Image2  
+    - ……  
+    - ImageN  
   - File2  
-    -Image1  
-    -Image2  
-    -……  
-    -ImageN  
+    - Image1  
+    - Image2  
+    - ……  
+    - ImageN  
   - ……  
   - FileM  
     - Image1  
@@ -25,7 +25,7 @@ Comparison of document forms before and after Organization
 # Destination Files  
 - Destination Files  
   - image1  
-    - File1_Image1  
+    -- File1_Image1  
     - File2_Image1  
     - ……  
     - FileM_Image1   
